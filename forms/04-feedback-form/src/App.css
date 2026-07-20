@@ -1,0 +1,22 @@
+.form-container{
+  width: 350px;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px;
+}
+.field label{
+  margin-bottom: 8px;
+}
+button{
+  background: rgb(0, 106, 255);
+  color: white;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+}
+button:disabled{
+  background: rgb(134, 184, 253);
+}
