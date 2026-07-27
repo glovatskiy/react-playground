@@ -40,7 +40,7 @@ The application starts with:
 After clicking the **Add** button three times:
 
 - Counter value changes to `3`
-- Browser title and concole remain unchanged
+- Browser title and console remain unchanged
 - Title effect does not run
 
 ![Counter Update](screenshots/screenshot-2.png)
